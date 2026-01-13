@@ -27,6 +27,12 @@
 
 </div>
 
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,html,css,react,next,nodejs,express,mongodb,linux,docker,git,graphql,figma&perline=14"
+  />
+</div>
+
 ---
 
 <!-- ===================== QUICK INTRO ===================== -->
@@ -46,12 +52,6 @@
 - **AI/ML + GenAI:** RAG chatbots, knowledge base assistants, automation agents  
 - **Automation:** Make.com / n8n workflows, CRM integrations, API orchestration  
 - **Backend Systems:** auth, RBAC, databases, queues, logging, scalable architecture
-
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,html,css,react,next,nodejs,express,mongodb,linux,docker,git,graphql,figma&perline=14"
-  />
-</div>
 
 ---
 
