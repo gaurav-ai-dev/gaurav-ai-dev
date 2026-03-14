@@ -187,6 +187,22 @@ It includes:
 
 ---
 
+<!-- ===================== Opportunities ===================== -->
+
+## 🚀 Open For Opportunities
+
+I'm open to:
+
+- Freelance Projects
+- Remote Developer Roles
+- AI / Automation Projects
+- Startup Collaborations
+
+Feel free to connect!
+
+---
+
+
 <!-- ===================== CONTACT ===================== -->
 ## 🤝 Let’s Connect
 
@@ -201,13 +217,3 @@ It includes:
  Building scalable web applications, AI tools, and automation systems.
 </div>
 
-## 🚀 Open For Opportunities
-
-I'm open to:
-
-- Freelance Projects
-- Remote Developer Roles
-- AI / Automation Projects
-- Startup Collaborations
-
-Feel free to connect!
