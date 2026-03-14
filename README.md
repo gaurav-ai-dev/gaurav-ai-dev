@@ -72,7 +72,32 @@
   _CRM + Google Sheets + webhook-based pipelines._  
   Repo: https://github.com/gaurav-ai-dev/REPO_LINK
 
----
+---  
+
+<!-- =====================Portfolio===================== -->
+
+## 🌐 Portfolio
+
+Check out my developer portfolio:
+
+🔗 https://gauravai.in
+
+It includes:
+- Projects
+- Blogs
+- Case studies
+- Developer journey
+
+--- 
+
+<!-- =====================✍️ Latest Blog Posts===================== -->
+
+## ✍️ Latest Blog Posts
+
+- Claude AI in War Attacks 2026 – AI in Modern Warfare
+- Claude Code Deleted a 2.5-Year AWS Production Database
+- AI Tools Every Developer Should Know
+- Building Scalable MERN Applications
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
@@ -145,6 +170,14 @@
 
 ---
 
+<!-- =====================  Contribution Snake ===================== -->
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 <!-- ===================== TROPHIES ===================== -->
 ## 🏆 GitHub Trophies
 
@@ -165,5 +198,16 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ • MERN • AI • Automation</sub>
+ Building scalable web applications, AI tools, and automation systems.
 </div>
+
+## 🚀 Open For Opportunities
+
+I'm open to:
+
+- Freelance Projects
+- Remote Developer Roles
+- AI / Automation Projects
+- Startup Collaborations
+
+Feel free to connect!
